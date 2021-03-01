@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+  redmine:
+    image: redmine:4.1.1-alpine
+    container_name: redmine
+    ports:
+      - 8081:3000
