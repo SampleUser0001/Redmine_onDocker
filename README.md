@@ -25,7 +25,13 @@ admin:admin
 4. ステータス→登録
 5. 有効にする
 
+## dmsfインストール
+
+実施中。出来ればDockerfileに書きたいが、エラーが発生しているので手動インストールする方法を探す。
+
 ## 参考
 
 - [俺的備忘録～なんかいろいろ～:Redmine3.2でバージョン管理もできるドキュメント管理プラグイン「DMSF」](https://orebibou.com/ja/home/201610/20161009_001/)
   - 文書管理インストール
+- [Github:danmunn/redmine_dmsf](https://github.com/danmunn/redmine_dmsf)
+  - 文書管理本家
